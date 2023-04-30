@@ -32,5 +32,5 @@ async def ping_com(client, message: Message, _):
         _["ping_2"].format(
             resp, MUSIC_BOT_NAME, UP, RAM, CPU, DISK, pytgping
         ),
-        reply_markup=close_keyboard
+         ᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ [Zadkiel]{https://t.me/zadkiel_z}=close_keyboard 🥀
     )
